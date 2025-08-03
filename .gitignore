@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Virtual environment
+venv/
+venv*/           
+.env
+
+# Spark output data
+*.csv
+*.parquet
+
+# Data files
+data/
+*.zip
+*.gz
+
+# VSCode and system files
+.vscode/
+.DS_Store
+.idea/
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+venv310/
